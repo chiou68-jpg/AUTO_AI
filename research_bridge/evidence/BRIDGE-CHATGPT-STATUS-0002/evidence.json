@@ -1,0 +1,20 @@
+{
+  "schema_version": "RESEARCH_BRIDGE_EVIDENCE_V001",
+  "task_id": "BRIDGE-CHATGPT-STATUS-0002",
+  "gateway_task_id": "RT-BRIDGE-CHATGPT-STATUS-0002",
+  "task_type": "STATUS",
+  "final_state": "FAILED",
+  "created_at": "2026-09-18T16:41:01.438571+00:00",
+  "started_at": "2026-09-18T16:40:30.073866+00:00",
+  "completed_at": "2026-09-18T16:41:01.438556+00:00",
+  "executor": "research_supervisor_gateway",
+  "summary": "Task BRIDGE-CHATGPT-STATUS-0002 completed with status FAILED",
+  "experience_ids": [],
+  "artifact_refs": [],
+  "errors": [],
+  "security": {
+    "promote": false,
+    "live_execution": false,
+    "system_admin": false
+  }
+}
