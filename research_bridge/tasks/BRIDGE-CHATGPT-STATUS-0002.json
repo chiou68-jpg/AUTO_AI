@@ -1,0 +1,17 @@
+{
+  "schema_version": "RESEARCH_BRIDGE_TASK_V001",
+  "task_id": "BRIDGE-CHATGPT-STATUS-0002",
+  "task_type": "STATUS",
+  "created_by": "GPT_RESEARCH_LEAD",
+  "created_at": "2026-09-19T00:35:00+08:00",
+  "target": "AUTO_AI",
+  "instruction": "Return current AUTO_AI research system status and prove the repaired GitHub Research Bridge external round trip, preserving STATUS task type and complete execution evidence.",
+  "parameters": {
+    "purpose": "CHATGPT_EXTERNAL_E2E_ACCEPTANCE_V002"
+  },
+  "permissions": {
+    "promote": false,
+    "live_execution": false,
+    "system_admin": false
+  }
+}
