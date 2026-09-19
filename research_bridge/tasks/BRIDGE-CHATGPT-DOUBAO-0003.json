@@ -1,0 +1,18 @@
+{
+  "schema_version": "RESEARCH_BRIDGE_TASK_V001",
+  "task_id": "BRIDGE-CHATGPT-DOUBAO-0003",
+  "task_type": "HANDOFF",
+  "created_by": "GPT_RESEARCH_LEAD",
+  "created_at": "2026-09-19T13:00:00+08:00",
+  "target": "AUTO_AI",
+  "assigned_to": "DOUBAO",
+  "instruction": "Return AUTO_AI_AGENT_HANDOFF_TEST_OK. Do not modify production files or runtime.",
+  "parameters": {
+    "purpose": "CHATGPT_DOUBAO_EXTERNAL_HANDOFF_E2E_V001"
+  },
+  "permissions": {
+    "promote": false,
+    "live_execution": false,
+    "system_admin": false
+  }
+}
